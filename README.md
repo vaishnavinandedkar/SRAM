@@ -1,5 +1,5 @@
 # SRAM
-SRAM Design using 45nm technology
+SRAM Design using 45nm technology based on VLSI concepts
 
 Full Array shows the block diagram which includes 16 SRAM cells, Read, Write circuitry
 
